@@ -46,6 +46,10 @@
   [oai_citation:4,[2312.04524] RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models](https://ar5iv.org/abs/2312.04524)  
   [code:4.github](https://github.com/RehgLab/RAVE)
 
+- **Video Diffusion Models**
+  Generating temporally coherent high fidelity video is an important milestone in generative modeling research. We make progress towards this milestone by proposing a diffusion model for video generation that shows very promising initial results. Our model is a natural extension of the standard image diffusion architecture, and it enables jointly training from image and video data, which we find to reduce the variance of minibatch gradients and speed up optimization. To generate long and higher resolution videos we introduce a new conditional sampling technique for spatial and temporal video extension that performs better than previously proposed methods. We present the first results on a large text-conditioned video generation task, as well as state-of-the-art results on established benchmarks for video prediction and unconditional video generation.
+  ([https://ar5iv.org/abs/2312.04524](https://arxiv.org/abs/2204.03458)) 
+
 ### 去雨
 
 - **AAAI 2021: EfficientDeRain: Learning Pixel-wise Dilation Filtering for High-Efficiency Single-Image Deraining**  
